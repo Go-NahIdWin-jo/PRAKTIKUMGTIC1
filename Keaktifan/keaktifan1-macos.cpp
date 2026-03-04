@@ -1,4 +1,4 @@
-#include <gl/glut.h>
+#include <glut/glut.h>
 void grid(){
     GLfloat i;
     for(i=-1.00;i<1;i = i + 0.10){
